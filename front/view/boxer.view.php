@@ -4,7 +4,7 @@
 
     class BoxerView {
 
-        /** Listado de cartoneros */
+        /** Listado de cartoneros ESTO ES UNA PRUEBA */
         function showBoxers($cartoneros){
             $smarty = new Smarty ();
             $smarty->display('front/templates/menu/header.tpl');
